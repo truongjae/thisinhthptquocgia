@@ -1,0 +1,164 @@
+@media only screen and (max-width: 480px) {
+    .container{
+        height: 10vh;
+    }
+    .header{
+        height: 100%;
+        width: 50vh;
+    }
+    .header img{
+        width: 30px;
+        float: left;
+    }
+
+    #text1{
+        font-size: 12px;
+    }
+    #text2{
+        font-size: 15px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .container{
+        height: 10vh;
+    }
+    .header{
+        height: 100%;
+        width: 50vh;
+    }
+    .header img{
+        width: 40px;
+        float: left;
+    }
+
+    #text1{
+        font-size: 16px;
+    }
+    #text2{
+        font-size: 18px;
+    }
+
+    .main{
+        width: 90%;
+        padding-top: 7vh;
+    }
+
+    .sbd label{
+        width: 20%;
+    }
+    .sbd input{
+        width: 55%;
+        margin-left: 10%;
+    }
+    .code label{
+        width: 20%;
+    }
+    .code input{
+        margin-left: 10%;
+        width: 20%;
+    }
+
+    #allmon{
+        margin-top: 15px;
+    }
+    #diem{
+        font-size: 17px;
+    }
+  }
+
+  @media only screen and (max-width: 650px) {
+    .container{
+        height: 10vh;
+    }
+    .header{
+        height: 100%;
+        width: 50vh;
+    }
+    .header img{
+        width: 40px;
+        float: left;
+    }
+
+    #text1{
+        font-size: 16px;
+    }
+    #text2{
+        font-size: 18px;
+    }
+
+    .main{
+        width: 90%;
+        padding-top: 7vh;
+    }
+
+    .sbd label{
+        width: 20%;
+    }
+    .sbd input{
+        width: 55%;
+        margin-left: 10%;
+    }
+    .code label{
+        width: 20%;
+    }
+    .code input{
+        margin-left: 10%;
+        width: 20%;
+    }
+
+    #allmon{
+        margin-top: 15px;
+    }
+    #diem{
+        font-size: 17px;
+    }
+  }
+
+
+  @media only screen and (max-width: 700px) {
+    .container{
+        height: 10vh;
+    }
+    .header{
+        height: 100%;
+        width: 50vh;
+    }
+    .header img{
+        width: 40px;
+        float: left;
+    }
+
+    #text1{
+        font-size: 16px;
+    }
+    #text2{
+        font-size: 18px;
+    }
+
+    .main{
+        width: 90%;
+        padding-top: 7vh;
+    }
+
+    .sbd label{
+        width: 20%;
+    }
+    .sbd input{
+        width: 55%;
+        margin-left: 10%;
+    }
+    .code label{
+        width: 20%;
+    }
+    .code input{
+        margin-left: 10%;
+        width: 20%;
+    }
+
+    #allmon{
+        margin-top: 15px;
+    }
+    #diem{
+        font-size: 17px;
+    }
+  }
